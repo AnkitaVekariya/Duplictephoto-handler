@@ -53,3 +53,7 @@ Duplicates found and moved to DuplicatePhotos folder.
 ## Contributing
 
 Feel free to fork this project, submit issues, and send pull requests. Any contributions are welcome!
+
+## Explore the Code
+
+Check out the full project on GitHub: [ARcademy](https://github.com/AnkitaVekariya/Duplictephoto-handler)
