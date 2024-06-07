@@ -19,7 +19,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourGitHubUsername/DuplicatePhotoHandler.git
+    git clone https://github.com/AnkitaVekariya/Duplictephoto-handler
     ```
 2. Navigate to the project directory:
     ```bash
